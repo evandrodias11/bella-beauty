@@ -1,7 +1,5 @@
 # Bella Beauty - Salão de Beleza
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/bella-beauty/deployments/status)](https://bella-beauty.netlify.app/)
-
 Um site moderno e elegante para um salão de beleza, desenvolvido com React e Tailwind CSS.
 
 🌐 [Ver site ao vivo](https://bella-beauty.netlify.app/)
