@@ -2,7 +2,7 @@
 
 Um site moderno e elegante para um salão de beleza, desenvolvido com React e Tailwind CSS.
 
-🌐 [Ver site ao vivo](https://bella-beauty.netlify.app/)
+🌐 [Online aqui](https://bella-beauty.netlify.app/)
 
 ## 🚀 Tecnologias Utilizadas
 
