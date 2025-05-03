@@ -17,10 +17,13 @@ const Hero = () => {
               Oferecemos tratamentos de beleza personalizados em um ambiente acolhedor e moderno,
               onde cada cliente recebe atenção exclusiva para realçar sua beleza natural.
             </p>
-            <button className="bg-rose-600 text-white px-8 py-3 rounded-full text-lg font-medium hover:bg-rose-700 transition-colors inline-flex items-center">
+            <a
+              href="#services"
+              className="bg-rose-600 text-white px-8 py-3 rounded-full text-lg font-medium hover:bg-rose-700 transition-colors inline-flex items-center"
+            >
               Conheça Nossos Serviços
               <ChevronRight className="ml-2" size={20} />
-            </button>
+            </a>
           </div>
         </div>
       </div>
